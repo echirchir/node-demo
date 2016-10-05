@@ -1,1 +1,1 @@
-console.log('Hello world nodejs application');
+require('./app/index')
